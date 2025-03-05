@@ -1,0 +1,7 @@
+# ninja log v5
+0	5838	1733173672456016366	/hdd/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	631020f98f7e2bb6
+0	11613	1733173678224102002	/hdd/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	d794a6d77853483a
+0	23976	1733173690592285807	/hdd/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	9e0a6f5ac155c5e3
+0	5501	1741203306727364031	/home/wangz19/BMVC24-GSIM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	2a2a5def30f3c95
+0	11739	1741203312959462000	/home/wangz19/BMVC24-GSIM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	6a982c18260cb36b
+0	23689	1741203324915649949	/home/wangz19/BMVC24-GSIM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	b086b29f05ae9ba4
